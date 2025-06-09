@@ -1,0 +1,34 @@
+--------------------------------------
+🔗 LinkedIn
+--------------------------------------
+🚨 Fusion researchers, physicists, and innovators — I need your eyes on this.
+
+I’ve built a simulation model that uses entropy-harmonic feedback to confine plasma in real time. It achieves Q > 1.5, outperforms Bohm diffusion, and mimics ITB behavior found in tokamak experiments.
+
+It’s live. It’s interactive. And it’s ready for testing:
+👉 https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+Full tech assessment & collab proposal in comments.
+#fusionenergy #physics #innovation #AI
+
+--------------------------------------
+🐦 Twitter (X)
+--------------------------------------
+1/ I built a real-time plasma confinement sim that achieves Q > 1.5.  
+2/ It uses entropy-harmonic feedback to suppress turbulence.  
+3/ It outperforms Bohm scaling.  
+4/ It’s live, public, and testable with real lab gear.  
+👇  
+https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+#fusion #plasma #physics #AI
+
+--------------------------------------
+📣 Reddit (r/Fusion, r/Physics)
+--------------------------------------
+I developed a real-time simulation for plasma confinement using entropy-harmonic feedback. It shows net-positive energy (Q > 1.5), suppresses turbulence, and models ITB-like behavior.
+
+It’s physically valid, testable with CECE/reflectometry, and interactive:
+https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+Looking for validation partners, feedback, and funders.

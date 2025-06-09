@@ -1,0 +1,52 @@
+--------------------------------------
+🧪 Fusion Lab Outreach Email
+--------------------------------------
+Subject: Adaptive Fusion Confinement Model Ready for Testing (Q > 1.5 Sim Results)
+
+Hi [Dr. Name],
+
+I’m reaching out to share a new real-time plasma confinement model—UN-EX—that simulates Q > 1.5 by leveraging harmonic-entropy feedback and shows strong alignment with Internal Transport Barrier behavior.
+
+The simulation is public and interactive:
+https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+A full technical assessment is attached (PDF). I’d welcome the opportunity to collaborate or discuss potential validation pathways in your facility.
+
+Best regards,  
+Josh Chesher  
+Theoretical Physicist & Simulation Architect
+
+--------------------------------------
+💰 VC/Investor Outreach Email
+--------------------------------------
+Subject: Net-Positive Fusion Simulation — Seeking Strategic Partner
+
+Hi [Investor Name],
+
+I’ve built a novel simulation model showing real-time, adaptive confinement of fusion plasma—achieving net-positive output (Q > 1.5) using entropy feedback and harmonic injection. It outperforms classical models and is fully testable with existing hardware.
+
+Try the interactive model here:
+https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+I'm seeking partners for the next phase: validation, funding, and deployment.
+
+Regards,  
+Josh Chesher  
+Inventor, UN-EX Theory
+
+--------------------------------------
+🎯 Grant/Research Proposal Email
+--------------------------------------
+Subject: Proposal for Real-Time Fusion Confinement Optimization (UN-EX Model)
+
+Dear [Program Officer],
+
+I’m submitting a proposal for a new experimental fusion framework. The UN-EX model uses entropy-harmonic feedback to confine plasma, achieving Q > 1.5 in simulation. It’s rooted in established diagnostics and control systems, and ready for lab testing.
+
+The one-pager PDF is attached. Live demo here:
+https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+Looking forward to your guidance and interest.
+
+Sincerely,  
+Josh Chesher

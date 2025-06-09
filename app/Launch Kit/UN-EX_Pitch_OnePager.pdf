@@ -1,0 +1,34 @@
+UN-EX: Real-Time Fusion Confinement via Entropy-Harmonic Feedback
+
+Inventor: Josh Chesher
+Title: Theoretical Physicist & Simulation Architect
+Email: joshc...@gmail.com
+Streamlit Demo: https://unex-fusion-model-bxwwcy63cawkqbvjbqgcbj.streamlit.app/
+
+Summary:
+The UN-EX Fusion Model introduces a novel control equation for plasma confinement:
+    D_UNEX = α * (T / B) - β * E_harmonic + γ * S_local
+
+This approach enables real-time adaptive control of turbulent plasma behavior through:
+- Entropy suppression (S_local feedback)
+- Harmonic locking via resonant energy injection (E_harmonic)
+- Temperature and magnetic field balance (T/B)
+
+Simulation Results:
+- Achieved Q > 1.5 (net-positive energy)
+- Outperformed Bohm and Neoclassical diffusion in real time
+- Confirmed compatibility with existing fusion diagnostics and control systems
+
+Experimental Alignment:
+- Reflectometry, CECE: Local entropy feedback
+- ECRH/ICRH: Harmonic injection control
+- Thomson Scattering, magnetic probes: T & B diagnostics
+
+Next Steps:
+• Experimental testing in controlled lab setups (KSTAR, DIII-D, etc.)
+• Reinforcement learning integration for auto-optimization
+• Partnering for grant-backed experimental validation
+
+Let’s build the future of fusion.
+
+Contact: Josh Chesher | joshc...@gmail.com
